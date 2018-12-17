@@ -1,5 +1,5 @@
 ## Sudoku-api
-A node.js app built with express, moongose and mongoDB. Sends puzzles [zacco-sudoku](https://github.com/ervinjusufagic/zacco-sudoku)
+A node.js app built with express, moongose and mongoDB. Sends puzzles to [zacco-sudoku](https://github.com/ervinjusufagic/zacco-sudoku)
 
 ### `Run the client`
 
