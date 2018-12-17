@@ -10,7 +10,7 @@ A node.js app built with express, moongose and mongoDB. Sends puzzles [zacco-sud
 ### `Routes`
 #### /puzzles
 * GET: gets all puzzles
-* POST: you need to send a puzzle a solution and a difficulty level
+* POST: you need to send a puzzle, solution and a difficulty level
 
 #### /puzzles/puzzleId
 * DELETE: deletes a puzzle
