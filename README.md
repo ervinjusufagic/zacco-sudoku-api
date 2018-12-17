@@ -8,11 +8,12 @@ A node.js app built with express, moongose and mongoDB. Sends puzzles [zacco-sud
 3. node server.js
 
 ### `Routes`
-## `GET`
+#### /puzzles
+* GET: gets all puzzles
+* POST: you need to send a puzzle a solution and a difficulty level
 
-## `POST`
-
-## `DELETE
+#### /puzzles/puzzleId
+* DELETE: deletes a puzzle
 
 ### `Deployment`
 Deployed to Microsoft Azure.
@@ -22,7 +23,6 @@ Logged in and deployed through VSCode.
 [Live version](https://z-api.azurewebsites.net/) (you will be greated with a error message)
 
 ### `Improvments`
-
 * improve security
 * create algorithm to generate unique puzzles
 * add route to handle finished puzzles
