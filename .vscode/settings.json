@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/97f49850-7e96-461d-a709-f8760aadca8f/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/z-api",
+    "appService.deploySubpath": ""
+}
