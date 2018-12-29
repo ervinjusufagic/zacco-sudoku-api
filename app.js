@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 const puzzleRoutes = require("./api/routes/puzzles");
 
 mongoose.connect(
-  "mongodb+srv://admin:<PASSWORD>@node-app-q8f4u.mongodb.net/test?retryWrites=true",
+  "mongodb+srv://admin:admin@node-app-q8f4u.mongodb.net/test?retryWrites=true",
   {
     useNewUrlParser: true
   }
